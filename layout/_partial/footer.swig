@@ -24,4 +24,5 @@
     </span>
     <span class="author">{{ config.author }}</span>
   </span>
+<p> Hosted by<a rel="nofollow" target="_blank" href="https://pages.coding.me" style="font-weight: bold"> Coding Pages</a></p>
 </div>
